@@ -1,0 +1,30 @@
+ticket_id,domain,category,escalate,response
+0,claude,account_access,False,Please verify permissions or contact claude admin support.
+1,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+2,visa,billing_issue,True,This issue is sensitive and has been escalated to visa support.
+3,hackerrank,billing_issue,True,This issue is sensitive and has been escalated to hackerrank support.
+4,hackerrank,billing_issue,True,This issue is sensitive and has been escalated to hackerrank support.
+5,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+6,hackerrank,bug_report,False,hackerrank team is working on resolving this issue.
+7,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+8,hackerrank,bug_report,False,hackerrank team is working on resolving this issue.
+9,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+10,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+11,general,bug_report,False,general team is working on resolving this issue.
+12,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+13,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+14,claude,bug_report,False,claude team is working on resolving this issue.
+15,visa,general_query,False,Please visit visa help center for more details.
+16,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+17,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+18,visa,general_query,False,Please visit visa help center for more details.
+19,claude,bug_report,False,claude team is working on resolving this issue.
+20,claude,general_query,False,Please visit claude help center for more details.
+21,visa,general_query,True,This issue is sensitive and has been escalated to visa support.
+22,claude,general_query,False,Please visit claude help center for more details.
+23,general,general_query,False,Please visit general help center for more details.
+24,visa,fraud,True,This issue is sensitive and has been escalated to visa support.
+25,claude,bug_report,False,claude team is working on resolving this issue.
+26,hackerrank,general_query,False,Please visit hackerrank help center for more details.
+27,claude,general_query,False,Please visit claude help center for more details.
+28,visa,general_query,False,Please visit visa help center for more details.
